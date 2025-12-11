@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-Full-Stack Developer with **3.6 years** of experience crafting robust mobile and web applications. I thrive on solving complex problems and delivering high-performance solutions that make a real impact.
+###Full-Stack Developer with **3.6 years** of experience crafting robust mobile and web applications. I thrive on solving complex problems and delivering high-performance solutions that make a real impact.
 ---
 
 ## 🛠️ Tech Stack
@@ -71,13 +71,13 @@ Full-Stack Developer with **3.6 years** of experience crafting robust mobile and
 
 #### 🎯 Key Projects
 
-Lead**🚀 CAVZON**  
+Led **🚀 CAVZON**  
 A full-featured job portal with real-time chat
 
 **🍔 ORDDAR**  
 Food & grocery delivery app - Developed backend APIs, managed server-side operations, and contributed to the Flutter application for a food and grocery delivery platform.
 
-**🌟 HEROSCOOP**  
+Led **🌟 HEROSCOOP**  
 Developed the website & admin panel, created APIs for both and the mobile app, managed AWS servers.
 
 </td>
