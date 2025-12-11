@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-###Full-Stack Developer with **3.6 years** of experience crafting robust mobile and web applications. I thrive on solving complex problems and delivering high-performance solutions that make a real impact.
+### Full-Stack Developer with **3.6 years** of experience crafting robust mobile and web applications. I thrive on solving complex problems and delivering high-performance solutions that make a real impact.
 ---
 
 ## 🛠️ Tech Stack
