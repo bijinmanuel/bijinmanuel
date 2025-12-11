@@ -6,7 +6,6 @@
 
 [![Email](https://img.shields.io/badge/Email-bijinmanuel98%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:bijinmanuel98@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](your-linkedin-url)
-//[![Phone](https://img.shields.io/badge/Phone-9847454236-green?style=for-the-badge&logo=whatsapp)](tel:9847454236)
 
 </div>
 
