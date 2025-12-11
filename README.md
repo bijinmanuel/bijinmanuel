@@ -6,7 +6,6 @@
 
 [![Email](https://img.shields.io/badge/Email-bijinmanuel98%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:bijinmanuel98@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](your-linkedin-url)
-[![Phone](https://img.shields.io/badge/Phone-9847454236-green?style=for-the-badge&logo=whatsapp)](tel:9847454236)
 
 </div>
 
@@ -16,32 +15,44 @@
 
 Full-Stack Developer with **3.6 years** of experience crafting robust mobile and web applications. I thrive on solving complex problems and delivering high-performance solutions that make a real impact.
 
-- 👨‍💻 Built & Maintained **30+ Projects** using React, Next.js, Node.js, Express, PHP, and Laravel across various domains
-- 🚀 Led **CAVZON** – A full-featured job portal with real-time chat
-- 🍔 Powered **ORDDAR** – Developed backend APIs and managed server operations for this food & grocery delivery app
-- 🌟 Built **HEROSCOOP** – Developed the website & admin panel, created APIs for both and the mobile app, managed AWS servers, and integrated SendGrid for emails
-- ☁️ Integrated **AWS Services** – Worked with S3, EC2, SES for cloud hosting & email automation
-- 🎨 **Pixel-Perfect UI** – Collaborated with UI/UX designers for seamless, responsive designs
-- 🔥 **And Many More!** – Contributed to multiple innovative projects, each with unique challenges and solutions
-
 ---
 
-## 💼 Professional Highlights
+## 💼 Work Experience
 
-```javascript
-const bijin = {
-    location: "Ernakulam, India",
-    experience: "3.6 years",
-    currentRole: "Senior Software Developer",
-    achievements: [
-        "99.9% application uptime maintained",
-        "60% reduction in bugs through structured code reviews",
-        "30% faster project delivery through improved team collaboration",
-        "20% increase in client satisfaction scores"
-    ],
-    passions: ["Clean Code", "Performance Optimization", "Team Leadership"]
-};
-```
+### Senior Software Developer @ Weberfox Technologies
+**January 2022 - June 2025 | Ernakulam, India**
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🎯 Key Projects
+
+**🚀 CAVZON**  
+Full-featured job portal with real-time chat functionality
+
+**🍔 ORDDAR**  
+Food & grocery delivery app - Backend APIs & server operations
+
+**🌟 HEROSCOOP**  
+Website, admin panel, mobile APIs, AWS server management & SendGrid integration
+
+</td>
+<td width="50%">
+
+#### 📈 Achievements
+
+- 👨‍💻 Built & maintained **30+ projects**
+- ☁️ Integrated AWS Services (S3, EC2, SES)
+- 🎨 Delivered pixel-perfect UI designs
+- 🔥 Solved unique challenges across domains
+- ⚡ Full-stack expertise in modern tech stacks
+
+</td>
+</tr>
+</table>
+
+**Tech Stack:** React • Next.js • Node.js • Express • PHP • Laravel • AWS • Socket.io • Firebase • MongoDB • MySQL
 
 ---
 
@@ -86,37 +97,6 @@ const bijin = {
 
 ### Project Management
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
----
-
-## 🏆 Featured Projects
-
-### 🎯 HeroScoop
-**Duration:** June 2024 - February 2025
-
-A comprehensive platform connecting clients with care providers featuring advanced matching algorithms.
-
-**Tech Stack:** Node.js, Express.js, React.js, MongoDB, AWS, Firebase
-
-**Key Achievements:**
-- ✅ Architected RESTful APIs for user management and subscription administration
-- ✅ Implemented JWT-based authentication with role-based access control
-- ✅ Integrated Stripe for payments and Twilio for communication
-- ✅ Built custom MongoDB aggregation queries for precise client-provider matching
-- ✅ Enabled real-time communication using Firebase
-
-### 💼 Cavzon
-**Duration:** April 2023 - April 2024
-
-Job-finding web application with advanced role-based access control and real-time features.
-
-**Tech Stack:** Laravel, Socket.io, MySQL
-
-**Key Achievements:**
-- ✅ Developed full-stack solution using Laravel framework
-- ✅ Implemented real-time chat between Admin, Users, and Employees using Socket.io
-- ✅ Integrated CCAvenue payment gateway and SMSBuddy for SMS management
-- ✅ Optimized database queries using Laravel Eloquent ORM
 
 ---
 
