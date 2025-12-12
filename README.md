@@ -144,11 +144,3 @@ I'm always interested in collaborating on innovative projects or discussing new 
 </div>
 
 ---
-
-<div align="center">
-  
-### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username)
-
-</div>
