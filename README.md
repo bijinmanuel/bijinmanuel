@@ -5,7 +5,7 @@
 ### Full Stack Developer | Building Scalable Web & Mobile Applications
 
 [![Email](https://img.shields.io/badge/Email-bijinmanuel98%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:bijinmanuel98@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([your-linkedin-url](https://www.linkedin.com/in/bijinmanuel/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/bijinmanuel/))
 
 </div>
 
