@@ -78,13 +78,18 @@ Led the development and maintenance of a scalable job portal platform. Built res
 Maintained backend systems, developed APIs, optimized database queries, and managed AWS infrastructure to ensure performance, scalability, and reliability.
 
 </td> <td width="50%">
-### 📈 Responsibilities & Achievements**
+  
+### 📈 Responsibilities & Achievements
 
 - 👨‍💻 Developed scalable full stack applications using React.js, Next.js, Node.js, and MongoDB
+  
 - ☁️ Managed and optimized AWS infrastructure (EC2, EBS, IAM, CloudWatch, S3)
+
 - ⚡ Improved application performance through backend and frontend optimization
+
 - 🔐 Implemented secure authentication using JWT and role-based access control
-- 💰 Optimized AWS resources to reduce infrastructure cost and improve efficiency
+
+- 💰 Optimized AWS resources to reduce infrastructure cost and improve efficiency 
 </td> </tr> </table>
 
 **Tech Stack:** 
@@ -114,7 +119,7 @@ Developed the website & admin panel, created APIs for both and the mobile app, m
 
 #### 📈 Achievements
 
-- 👨‍💻 Built & maintained **30+ projects**
+- 👨‍💻 Built & maintained **7+ projects**
 - ☁️ Integrated AWS Services (EC2, SES)
 - 🎨 Delivered pixel-perfect UI designs
 - 🔥 Solved unique challenges across domains
