@@ -63,9 +63,9 @@
 
 ## 💼 Work Experience
 
-###Senior Full Stack Developer @ Cavzon
+### Senior Full Stack Developer @ Cavzon
 
-August 2025 – January 2026 | Kollam, India
+**August 2025 – January 2026 | Kollam, India**
 
 <table> <tr> <td width="50%">
 🎯 Key Projects
