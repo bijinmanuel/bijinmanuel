@@ -68,7 +68,7 @@
 **August 2025 – January 2026 | Kollam, India**
 
 <table> <tr> <td width="50%">
-🎯 Key Projects
+### 🎯 Key Projects
 
 **🚀 CAVZON Job Portal**
 Led the development and maintenance of a scalable job portal platform. Built responsive frontend using React.js and Next.js, developed RESTful APIs using Node.js and Express.js, and managed MongoDB database. Handled complete AWS infrastructure including deployment, monitoring, and optimization.
