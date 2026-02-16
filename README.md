@@ -78,21 +78,16 @@ Led the development and maintenance of a scalable job portal platform. Built res
 Maintained backend systems, developed APIs, optimized database queries, and managed AWS infrastructure to ensure performance, scalability, and reliability.
 
 </td> <td width="50%">
-**📈 Responsibilities & Achievements**
+### 📈 Responsibilities & Achievements**
 
-👨‍💻 Developed scalable full stack applications using React.js, Next.js, Node.js, and MongoDB
-☁️ Managed and optimized AWS infrastructure (EC2, EBS, IAM, CloudWatch, S3)
-⚡ Improved application performance through backend and frontend optimization
-🔐 Implemented secure authentication using JWT and role-based access control
-💰 Optimized AWS resources to reduce infrastructure cost and improve efficiency
-
-🔧 Maintained multiple production platforms with high availability
-
-👥 Led development tasks, code reviews, and technical implementation
-
+- 👨‍💻 Developed scalable full stack applications using React.js, Next.js, Node.js, and MongoDB
+- ☁️ Managed and optimized AWS infrastructure (EC2, EBS, IAM, CloudWatch, S3)
+- ⚡ Improved application performance through backend and frontend optimization
+- 🔐 Implemented secure authentication using JWT and role-based access control
+- 💰 Optimized AWS resources to reduce infrastructure cost and improve efficiency
 </td> </tr> </table>
 
-Tech Stack:
+**Tech Stack:** 
 
 <p align="left"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /> </p>
 
