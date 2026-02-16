@@ -70,27 +70,20 @@
 <table> <tr> <td width="50%">
 🎯 Key Projects
 
-🚀 CAVZON Job Portal
+**🚀 CAVZON Job Portal**
 Led the development and maintenance of a scalable job portal platform. Built responsive frontend using React.js and Next.js, developed RESTful APIs using Node.js and Express.js, and managed MongoDB database. Handled complete AWS infrastructure including deployment, monitoring, and optimization.
 
-💼 CAVZON Payroll System
-Developed and maintained payroll management system with secure backend architecture, efficient database handling, and reliable cloud deployment using AWS.
-
-💍 Matrimony Platforms
+**💍 Matrimony Platforms**
 (Malankara Matrimony, Pentecost Matrimony, Musilium Matrimony)
 Maintained backend systems, developed APIs, optimized database queries, and managed AWS infrastructure to ensure performance, scalability, and reliability.
 
 </td> <td width="50%">
-📈 Responsibilities & Achievements
+**📈 Responsibilities & Achievements**
 
 👨‍💻 Developed scalable full stack applications using React.js, Next.js, Node.js, and MongoDB
-
 ☁️ Managed and optimized AWS infrastructure (EC2, EBS, IAM, CloudWatch, S3)
-
 ⚡ Improved application performance through backend and frontend optimization
-
 🔐 Implemented secure authentication using JWT and role-based access control
-
 💰 Optimized AWS resources to reduce infrastructure cost and improve efficiency
 
 🔧 Maintained multiple production platforms with high availability
