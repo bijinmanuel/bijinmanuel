@@ -68,13 +68,16 @@
 **August 2025 – January 2026 | Kollam, India**
 
 <table> <tr> <td width="50%">
+  
 ### 🎯 Key Projects
 
 **🚀 CAVZON Job Portal**
+
 Led the development and maintenance of a scalable job portal platform. Built responsive frontend using React.js and Next.js, developed RESTful APIs using Node.js and Express.js, and managed MongoDB database. Handled complete AWS infrastructure including deployment, monitoring, and optimization.
 
 **💍 Matrimony Platforms**
 (Malankara Matrimony, Pentecost Matrimony, Musilium Matrimony)
+
 Maintained backend systems, developed APIs, optimized database queries, and managed AWS infrastructure to ensure performance, scalability, and reliability.
 
 </td> <td width="50%">
